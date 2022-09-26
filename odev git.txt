@@ -1,0 +1,20 @@
+GİTHUB;
+
+GitHub; kalabalık bir ekibin sürüm kontrol sisteminde bir yazılım geliştirirken kullanabilecekleri internet tabanlı bir depolama servisidir. GitHub, Git yönetim sistemi ile geliştirilen yazılımlarda kullanılır. Açık kaynak kodlu bir servis olması nedeniyle pek çok yazılım ekibi tarafından kullanılmakta ve geliştirilmektedir.
+GitHub servisini kaç kişinin kullandığı ve kaç kişinin aynı anda bir proje üzerinde çalıştığı önemli değildir. Servise dahil olmak ve proje üzerinde çalışmak için internet bağlantısı gereklidir. İnternet tabanlı olduğu için GitHub servisi ile proje üzerinde yapılan değişiklikleri söz konusu ekibin tamamı görebilir.
+
+
+GitHub ne işe yarar?
+GitHub servisi sayesinde pek çok kişiden oluşan kalabalık yazılım geliştirici ekipler bile aynı anda aynı proje üzerinde çalışabilir ve ayrı değişiklikler yapabilirler. Bu servis üzerinden geliştirilen projelerde ekip büyük bir zaman kazanır. Çünkü tekrar tekrar aynı işlemler yapılmaz, çakışmalar olmaz ve uzun toplantılarda karar verilecek şeyler belki bu servis üzerinden gösterilerek hızla onaylanabilir.
+GitHub yalnızca geliştirici ekibin değil, yazılımı hazırladıkları müşterinin de kullanabileceği bir alan sunar. Diyelim ekip yazılımı hazırladı ve sundu. Ancak müşteri proje üzerinde bazı değişiklikler yapmak istiyor. GitHub servisi üzerinden gerekli düzenlemeleri ve güncellemeleri yaparak iletişim sürecini hızlandırabilir. Yapılan değişiklikler onaydan geçmeden ana projeye dahil edilmediği için herkes kendi düzenlemesini yaparak fikrini ortaya koyabilir.
+GitHub Nasıl Kullanılır?
+Öncelikle kullanışlı bir ara yüze sahip olan GitHub’a bir kullanıcı adı ve e-mail ile üye olmanız gerekiyor. Bu adresten ana sayfaya giderek kendinize bir kullanıcı adı oluşturun. Eğer projelerinizi GitHub’ta açık bir şekilde tutarsanız sistemi kullanmak ücretsizdir. Private (gizli) projeler için ise ücretli bir plan oluşturmak mümkün.
+
+GitHub fiyatları
+Sisteme ilk defa giriyorsanız github-learning-lab denen bir eğitim aracına yönlendiriliyorsunuz ve burada bir bot yardımıyla sistemin nasıl çalıştığını adım adım öğrenebiliyorsunuz. Bu alandan devam edebilirsiniz ancak biz buradan da bilgi vermeye devam edeceğiz.
+
+
+GitHub ta bir şey saklamak için kendinize bir depo oluşturmanız gerek. Kendi kullanıcı adınıza tanımlı olan bu alana projelerinizi yükleyebilirsiniz.
+
+GitHub Üzerinde Yeni Repo (Repository) Oluşturmak
+GitHub’ta bir proje oluşturmak çok basittir. Yeni bir repository oluşturmak çok kolaydır. Ana sayfada profilinize gelerek “Repositories” sekmesine gelerek sağ üstte “New” butonuna basmalısınız. Yeni açılan sayfada sizin kullanıcı adınızın altında bir dizin şeklinde oluşacak bir “Repository” eklemeniz gerekiyor.
